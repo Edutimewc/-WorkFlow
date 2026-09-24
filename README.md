@@ -4,17 +4,17 @@ A modern project management dashboard built with React, Redux Toolkit and EmailJ
 
 WorkFlow allows users to manage projects, tasks and team members through a responsive and interactive dashboard.
 
-## 🚀 Features
+## Features
 
-- 📊 Dashboard with project and task statistics
-- 📁 Project management
+-  Dashboard with project and task statistics
+- Project management
   - Add projects
   - Edit projects
   - Delete projects
   - Search projects
   - Filter by status
   - Progress tracking
-- ✅ Task management
+-  Task management
   - Add tasks
   - Edit tasks
   - Delete tasks
@@ -22,20 +22,20 @@ WorkFlow allows users to manage projects, tasks and team members through a respo
   - Filter by status
   - Filter by priority
   - Deadline management
-- 👥 Team management
+-  Team management
   - Add team members
   - Edit team members
   - Delete team members
   - Search team members
   - Filter by role
-- 🔔 Real-time in-app notifications
-- 📧 Email notifications with EmailJS
-- ⚙️ Settings management
-- 🌙 Dark mode
-- 💾 LocalStorage persistence
-- 📱 Responsive design for desktop, tablet and mobile
+- Real-time in-app notifications
+-  Email notifications with EmailJS
+-  Settings management
+-  Dark mode
+-  LocalStorage persistence
+-  Responsive design for desktop, tablet and mobile
 
-## 🛠️ Technologies
+##  Technologies
 
 - React
 - React Router
@@ -47,7 +47,7 @@ WorkFlow allows users to manage projects, tasks and team members through a respo
 - Vite
 - LocalStorage
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 src/
